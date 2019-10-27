@@ -3,22 +3,25 @@
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-0 .navbar-brand a {
+  font-size: 36px;
+}
 #dropdown-menu-0 .nav .link,
 #dropdown-menu-0 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
+  font-size: 1.2em;
+  color: #ffffff;
 }
 #dropdown-menu-0 .navbar,
 #dropdown-menu-0 .dropdown-menu {
-  background: #ffffff;
+  background: #46051b;
 }
 #dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-0 .dropdown-menu a:hover,
 #dropdown-menu-0 .dropdown-menu a:focus {
-  background: #f5f5f5;
+  background: #330414;
 }
 #dropdown-menu-0 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #dropdown-menu-0 .btn {
   font-family: 'Droid Serif', serif;
