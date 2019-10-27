@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-0 .btn {
+  font-family: 'Droid Serif', serif;
+}
+#header4-a H1 {
+  color: #000000;
+}
+#msg-box4-c .lead P {
+  text-align: center;
+}
+#features1-0 P {
+  text-align: center;
+}
