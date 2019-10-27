@@ -10,7 +10,8 @@
       "additionalSetColors": [
         "#28228f",
         "#cce2e8",
-        "#46051b"
+        "#46051b",
+        "#17135e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -51,10 +52,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#46051b"
+              "background": "#17135e"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#330414"
+              "background": "#13104d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -70,7 +71,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#46051b",
+            "bgColor": "#17135e",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
