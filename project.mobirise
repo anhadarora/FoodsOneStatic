@@ -128,7 +128,11 @@
           "_anchor": "header4-a",
           "_styles": {
             "H1": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "84px"
+            },
+            "P": {
+              "font-size": "24px"
             }
           }
         },

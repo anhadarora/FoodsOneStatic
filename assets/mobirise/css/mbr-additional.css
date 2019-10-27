@@ -28,6 +28,10 @@
 }
 #header4-a H1 {
   color: #000000;
+  font-size: 84px;
+}
+#header4-a P {
+  font-size: 24px;
 }
 #msg-box4-c .lead P {
   text-align: center;
