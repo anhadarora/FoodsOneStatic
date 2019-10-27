@@ -1,10 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
 
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-0 .navbar-brand a {
   font-size: 36px;
+  font-family: 'Merriweather', serif;
 }
 #dropdown-menu-0 .nav .link,
 #dropdown-menu-0 .dropdown-item {
