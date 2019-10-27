@@ -52,10 +52,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#17135e"
+              "background": "#000000"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#13104d"
+              "background": "#000000"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -71,7 +71,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#17135e",
+            "bgColor": "#000000",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
